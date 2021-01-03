@@ -4,11 +4,9 @@
 
 layout: home
 ---
-Why so difficult to use?
 
-## Holy
 
-### What is?
+## Oh no.
 
-- 123
-- 456
+- What?
+- Oh.
