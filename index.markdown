@@ -8,6 +8,6 @@ layout: home
 
 ## Oh no.
 
-- What?
+- [hoppies](./hobbies.markdown)
 - Oh.
 - use home.
