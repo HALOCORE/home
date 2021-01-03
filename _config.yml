@@ -28,7 +28,9 @@ github_username:  HALOCORE
 
 # Build settings
 # theme: minima
-remote_theme: benbalter/retlab
+# remote_theme: benbalter/retlab
+remote_theme: kitian616/jekyll-TeXt-theme
+
 plugins:
   - jekyll-feed
 
