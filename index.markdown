@@ -2,12 +2,5 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
-
-
-## Oh no.
-
-- [hoppies](./hobbies.markdown)
-- Oh.
-- use home.
