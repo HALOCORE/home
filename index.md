@@ -4,48 +4,48 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at National University of Singapore.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Program Synthesis:** Programming by Example, Interactive Program Synthesis
+- **Program Analysis:** Program Repair, Automated Bug Detection
 
-## News
+<!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
 - **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/). -->
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **SynGuar: Guaranteeing Generalization in Programming by Example**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Bo Wang**, Teodora Baluta, Aashish Kolluri, Prateek Saxena
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering. **ESEC/FSE 2021**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://www.comp.nus.edu.sg/~wangbo20/pubs/fse2021_synguar.pdf)] [[Code](https://github.com/halocore/SynGuar)] [[Demo](https://www.comp.nus.edu.sg/~wangbo20/synguar/webui/demo/index.html)] 
+  <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Understanding Trigger-Action Programs Through Novel Visualizations of Program Differences**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Valerie Zhao, Lefan Zhang, **Bo Wang**, Michael L Littman, Shan Lu, Blase Ur
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  2021 CHI Conference on Human Factors in Computing Systems. **CHI 2021**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://www.blaseur.com/papers/chi21-diff.pdf)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **SSRules: Make it Easier to Write and Check Automation Rules for Smart Home Systems**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Bo Wang**, Yu Zhang, Jianing Geng, Xiangyang Li
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  Journal of Software (Chinese).
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
+<!-- ## Services
 
 - Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
 - Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263). -->
