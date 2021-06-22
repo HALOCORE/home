@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at National University of Singapore.
+I am a Ph.D. student at School of Computing, National University of Singapore ([NUS](https://www.nus.edu.sg/)). I am working with Prateek Saxena as my advisor. 
+
+Before this, I received my B.S. degree in Computer Science and Technology at University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), where I was fortunate to work with Yu Zhang.
 
 ## Research Interests
 
